@@ -1,0 +1,14 @@
+INDEX VERSION 1.3+/home/pesit/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4044059073.index
+4263116621.index
+2551679224.index
+744407052.index
+3830464875.index
+4228412043.index
+4102179723.index
+1440220954.index
+14548205.index
+329116633.index
+3667048856.index
+1854820024.index
+502801624.index
